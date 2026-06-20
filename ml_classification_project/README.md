@@ -49,8 +49,7 @@ The final and most powerful model was a **`StackingClassifier`**, which uses ter
 - **Mechanism:** The meta-model learns how to optimally combine the predictions of the base learners using **Out-of-Fold (OOF)** predictions via 5-fold cross-validation.
 
 ### 3. Evaluation Metrics
-Since credit risk is a highly imbalanced problem where a **False Negative** (predicting a default as a good loan) is much more costly than a False Positive, the following metrics were prioritized:
-- **ROC-AUC Score**: To evaluate terms of the model's ability to distinguish between classes.
-- **F1-Score**: To balance Precision and Recall.
-- **Recall**: Specifically monitored to ensure a high detection rate of potential defaulters.
-- **Confusion Matrix**: To visualize the trade-off between Type I and Type II errors.
+Since credit risk is a highly imbalanced problem where terms a **False Negative** (predicting a default as a good loan) is much more costly than a False Positive, the following metrics were prioritized:
+- **F1-Score**: Used as the primary metric to find the optimal balance between **Precision** and **Recall**. This ensures that the model is both accurate in its predictions and comprehensive in detecting potential defaults.
+- **Classification Report**: Utilized to analyze the la performance of the model across all classes, providing a detailed breakdown of precision, recall, and f1-score for the minority class.
+- **Recall**: Specifically monitored to maximize the detection of potential defaulters, thereby minimizing the financial risk for the lender.
