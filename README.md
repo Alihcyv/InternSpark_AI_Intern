@@ -1,8 +1,5 @@
 # Credit Risk Classification
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
-![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green.svg)
 [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blueviolet.svg)](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)
 
 ## Project Overview
