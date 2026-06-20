@@ -58,4 +58,4 @@ Since credit risk is a highly imbalanced problem where a **False Negative** (pre
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/credit-risk-classification.git
+   git clone https://github.com/Alihcyv/credit-risk-classification.git
