@@ -3,8 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Latest-green.svg)
-![CatBoost](https/img.shields.io/badge/CatBoost-Latest-yellow.svg)
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blueviolet.svg)
+[![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blueviolet.svg)](https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data)
 
 ## Project Overview
 This project focuses on building a high-performance machine learning pipeline to predict **Credit Risk**. The primary objective is to analyze customer financial data and predict the likelihood of a loan default (Binary Classification). By identifying high-risk applicants, financial institutions can minimize losses and optimize their lending strategies.
