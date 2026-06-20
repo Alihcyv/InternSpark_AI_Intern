@@ -54,8 +54,3 @@ Since credit risk is a highly imbalanced problem where a **False Negative** (pre
 - **F1-Score**: To balance Precision and Recall.
 - **Recall**: Specifically monitored to ensure a high detection rate of potential defaulters.
 - **Confusion Matrix**: To visualize the trade-off between Type I and Type II errors.
-
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Alihcyv/credit-risk-classification.git
