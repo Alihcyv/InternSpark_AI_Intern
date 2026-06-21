@@ -71,7 +71,7 @@ The **ResNet-18** (Residual Network) architecture was selected as the backbone.
 
 ---
 
-## 📈 Results
+## Results
 
 ### Performance Metrics
 | Metric | Training Set | Validation Set | Test Set |
@@ -87,17 +87,9 @@ The **ResNet-18** (Residual Network) architecture was selected as the backbone.
 
 ---
 
-## Installation & Usage
-
 ### Prerequisites
 - Python 3.8+
 - PyTorch & Torchvision
 - Scikit-learn
 - Matplotlib & Seaborn
 
-### Quick Start
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/[your_username]/[your_repo_name].git
-   cd [your_repo_name]
-   ```
